@@ -1,4 +1,4 @@
-Beyond the Wishlist: Flipkart Product Availability Analysis
+**Beyond the Wishlist: Flipkart Product Availability Analysis**
 
 Project Overview
 
@@ -28,10 +28,6 @@ NumPy
 
 Matplotlib
 
-SQL (SQLite)
-
-Jupyter Notebook
-
 Git and GitHub
 
 Dataset
@@ -49,169 +45,18 @@ The dataset includes product identifiers, product names, displayed prices, origi
 Key Findings
 
 1. Overall Availability
-
-Metric
-
-Result
-
-Total products
-
-37
-
-Available products
-
-27
-
-Unavailable products
-
-10
-
-Unavailability rate
-
-27.03%
+<img width="938" height="287" alt="image" src="https://github.com/user-attachments/assets/67486f16-0285-4a20-a664-dbebb5313e24" />
 
 2. Category-wise Unavailability
-
-Category
-
-Total
-
-Unavailable
-
-Rate
-
-Blazers
-
-1
-
-1
-
-100%
-
-Books
-
-1
-
-1
-
-100%
-
-Dresses
-
-4
-
-2
-
-50%
-
-Ethnic Wear
-
-2
-
-1
-
-50%
-
-Jeans
-
-6
-
-2
-
-33.33%
-
-Jewellery
-
-3
-
-1
-
-33.33%
-
-Footwear
-
-5
-
-1
-
-20%
-
-Western Wear
-
-10
-
-1
-
-10%
-
-Other categories in the dataset had no unavailable products.
+   <img width="947" height="502" alt="image" src="https://github.com/user-attachments/assets/1a12cfe8-39e8-49ad-9bf7-570d29c087f9" />
+   Other categories in the dataset had no unavailable products.
 
 3. Displayed Price Comparison
-
-Metric
-
-Available
-
-Unavailable
-
-Products
-
-27
-
-10
-
-Products with recorded prices
-
-26
-
-5
-
-Average price
-
-₹439.46
-
-₹572.60
-
-Minimum price
-
-₹66
-
-₹184
-
-Maximum price
-
-₹1,099
-
-₹1,398
-
-Unavailable products had a higher average recorded displayed price in this sample. This is a descriptive comparison, not evidence that price causes unavailability.
+   <img width="937" height="355" alt="image" src="https://github.com/user-attachments/assets/94161856-155f-4a6f-b363-18799b8876e6" />
+ Unavailable products had a higher average recorded displayed price in this sample. This is a descriptive comparison, not evidence that price causes unavailability.
 
 4. Highest-priced Unavailable Products
-
-Product
-
-Displayed Price
-
-Practical Statistics for Data Scientists
-
-₹1,398
-
-AAYU Women Fit and Flare Blue Maxi Dress
-
-₹598
-
-Women Two Piece Dress Brown Maxi
-
-₹419
-
-KOTTY Casual Printed Women Multicolor Top
-
-₹264
-
-Casual Women Blazer
-
-₹184
-
+   <img width="948" height="360" alt="image" src="https://github.com/user-attachments/assets/986a7553-74f5-46d8-9687-13544785f13b" />
 Five other unavailable products had missing displayed prices.
 
 Product Improvement Opportunity
@@ -245,3 +90,6 @@ Some product prices were missing.
 The analysis cannot establish lost revenue, platform-wide stockout rates, or customer demand.
 
 The findings are exploratory observations, not platform-wide conclusions.
+
+
+
