@@ -1,0 +1,38 @@
+Product_id,Product Name,Price,Original Price,Discount,Status,Category,Status_Clean,Discount_Percentage
+P1,Practical Statistics for Data Scientists,1398.0,1475.0,5% off,Currently unavailable,Books,Unavailable,5.220338983050848
+P2,Embroidered Bollywood Georgette Saree,,,,Currently unavailable,Ethnic Wear,Unavailable,
+P3,clobug Casual Solid Women Brown Top,496.0,1599.0,68% off,Available (Assured),Western Wear,Available,68.9806128830519
+P4,BrahmaniEn Baggy Fit Women Beige Jeans,,,,Currently unavailable,Jeans,Unavailable,
+P5,Casual Solid Women White Top,616.0,1380.0,55% off,Available (Assured),Western Wear,Available,55.362318840579704
+P6,Women Solid Casual White Shirt,479.0,1749.0,72% off,Available (Assured),Western Wear,Available,72.61292166952545
+P7,Women Bodycon Blue Midi/Calf Length Dress,751.0,2499.0,69% off,Available (Assured),Dresses,Available,69.94797919167667
+P8,Loose Fit Women Grey Trousers,599.0,2299.0,73% off,Available,Trousers,Available,73.94519356241844
+P9,NV Style Women Heels,517.0,1699.0,69% off,Available,Footwear,Available,69.57033549146556
+P10,B/WORLD Wide Leg Women White Jeans,,,,Currently unavailable,Jeans,Unavailable,
+P11,Casual Women Blazer,184.0,1999.0,90% off,Currently unavailable,Blazers,Unavailable,90.79539769884943
+P12,Women Two Piece Dress Brown Maxi,419.0,1499.0,72% off,Currently unavailable,Dresses,Unavailable,72.04803202134757
+P13,flying girls Regular Women Blue Jeans,628.0,2499.0,74% off,Available,Jeans,Available,74.86994797919168
+P14,Theme United Boots For Women,565.0,849.0,33% off,Available,Footwear,Available,33.45111896348645
+P15,KOTTY Relaxed Women Beige Trousers,358.0,1999.0,82% off,Available,Trousers,Available,82.09104552276139
+P16,TIVANTE Party Solid Women Brown Top,350.0,999.0,64% off,Available (Assured),Western Wear,Available,64.96496496496496
+P17,KOTTY Casual Printed Women Multicolor Top,264.0,1299.0,79% off,Currently unavailable,Western Wear,Unavailable,79.67667436489607
+P18,AAYU Women Fit and Flare Blue Maxi/Full Length Dress,598.0,1599.0,62% off,Currently unavailable,Dresses,Unavailable,62.601626016260155
+P19,AAYU Women Maxi Blue Full Length Dress,565.0,2599.0,78% off,Available (Assured),Dresses,Available,78.26086956521739
+P20,Hitway Women Heels,492.0,1999.0,75% off,Available (Assured),Footwear,Available,75.38769384692347
+P21,Cat eye Sunglasses,186.0,1400.0,86% off,Available,Sunglasses,Available,86.71428571428571
+P22,Women self design casual black shirt,267.0,999.0,73% off,Available,Western Wear,Available,73.27327327327328
+P23,Two soft boots for women,334.0,999.0,66% off,Available,Footwear,Available,66.56656656656656
+P24,Women Beige Trousers,368.0,1999.0,81% off,Available,Trousers,Available,81.59079539769884
+P25,KASHIAN Flared Women Dark Blue Jeans,410.0,1999.0,79% off,Available,Jeans,Available,79.48974487243622
+P26,comfits Straight Fit Women Dark Blue Jeans,549.0,1299.0,57% off,Available,Jeans,Available,57.736720554272516
+P27,"Striped, Self Design Bollywood Satin Saree",251.0,1299.0,80% off,Available,Ethnic Wear,Available,80.6774441878368
+P28,Miss Chase Skinny Women Dark Blue Jeans,699.0,1949.0,64% off,Available (Assured),Jeans,Available,64.13545407901488
+P29,UK Collection Boots For Women,,,,Currently unavailable,Footwear,Unavailable,
+P30,Patche Typography Women Round Neck Black T-Shirt,193.0,999.0,80% off,Available,Western Wear,Available,80.68068068068068
+P31,DreamBe Graphic Print Women Round Neck Black T-Shirt,225.0,999.0,77% off,Available,Western Wear,Available,77.47747747747748
+P32,White Pearl Necklace Pearl Alloy Necklace,,,,Currently unavailable,Jewellery,Unavailable,
+P33,"Aviman Creations Beautiful Rose With White Pearl Chain Set Pearl, Beryl Gold-plated Plated Alloy Chain...",144.0,499.0,71% off,Available,Jewellery,Available,71.14228456913828
+P34,Agrawal Sales Agrawal sales layered for women Beads Alloy Layered,66.0,749.0,91% off,Available (Assured),Jewellery,Available,91.18825100133512
+P35,"boAt Airdopes Supreme w/ 4 Mics AI ENx Tech, 50 HRS Playback, Multi Point Connectivity Bluetooth",1099.0,5990.0,81% off,Available (Assured),Electronics,Available,81.65275459098498
+P36,DreamBe Graphic Print Women Round Neck Dark Blue T-Shirt,219.0,999.0,78% off,Available,Western Wear,Available,78.07807807807808
+P37,ATHENA Party Puff Sleeve Solid Women Yellow Top,,,,Available (Assured),Western Wear,Available,
