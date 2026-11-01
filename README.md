@@ -1,22 +1,15 @@
 **Beyond the Wishlist: Flipkart Product Availability Analysis**
 
 Project Overview
+This project started with a personal problem.
 
-This project explores product availability patterns in a personal Flipkart wishlist using Python, Pandas, Matplotlib, and SQL.
+I wanted to buy Practical Statistics for Data Scientists, but when I checked Flipkart, the book had been out of stock for more than a week. Since I needed it, I kept checking its availability.
 
-The idea originated from a customer experience observation: several products saved in my wishlist were unavailable when I checked them.
+This made me curious about something bigger: What happens when customers save products they genuinely want to buy, but those products become unavailable?
 
-I conducted an exploratory analysis of 37 wishlist products to understand availability patterns, category-level unavailability, and displayed price differences.
+I decided to explore this question using my own Flipkart wishlist. I collected data on 37 products and analysed their availability, category-wise patterns, and displayed prices using Python, Pandas, Matplotlib, and SQL.
 
-Business Questions
-
-What percentage of wishlist products are unavailable?
-
-Which product categories have the highest unavailability rate?
-
-How do displayed prices differ between available and unavailable products?
-
-Which unavailable products have the highest displayed prices?
+The goal was to turn a real customer experience into a data-driven product improvement hypothesis.
 
 Tools & Technologies
 
